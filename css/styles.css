@@ -1,0 +1,64 @@
+body {
+    font-family: 'EB Garamond', serif;
+}
+
+.consultation-button {
+    background-color: #B68C5A;
+    color: #ffff;
+    padding: 10px 30px;
+}
+
+.legal-title {
+    color: #414040;
+}
+
+.legal-description-colour {
+    color: #707070;
+}
+
+/* Cards styling */
+.card-title-2 {
+    color: #414040;
+}
+
+.card-description {
+    color: #707070;
+    font-weight: 400;
+}
+
+.card-2 {
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+    border: 1px solid #E7E7E7;
+
+}
+
+/* Carousel styling */
+.image-overlay {
+    filter: brightness(0.4);
+}
+
+.slider-images {
+    width: 55px;
+    height: 55px;
+}
+
+.accordion-bg {
+    background-color: #f7efe5;
+    border-radius: 8px;
+}
+
+/* Footer styling */
+.footer-container{
+background: #111111;
+}
+.footer-description {
+    color: #CFCFCF;
+    font-weight: 400;
+    font-size: 16px;
+}
+.footer-send{
+    width: 25vh;
+height: 5vh;
+background: #FFFFFF;
+border-radius: 8px;
+}
